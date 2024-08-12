@@ -1,0 +1,62 @@
+[
+  {
+    "Id": 1,
+    "Spørgsmål": "What is the output of the following code snippet: `Console.WriteLine(2 + 3 * 4);`?",
+    "Options": [ "14", "20", "24" ],
+    "Svar": 1
+  },
+  {
+    "Id": 2,
+    "Spørgsmål": "Which of the following is a valid C# data type?",
+    "Options": [ "float", "number", "real" ],
+    "Svar": 1
+  },
+  {
+    "Id": 3,
+    "Spørgsmål": "Which keyword is used to define a method in C#?",
+    "Options": [ "function", "method", "void" ],
+    "Svar": 3
+  },
+  {
+    "Id": 4,
+    "Spørgsmål": "What will be the output of `Console.WriteLine(\"Hello\" + \" \" + \"World\");`?",
+    "Options": [ "HelloWorld", "Hello World", "HelloWorld " ],
+    "Svar": 2
+  },
+  {
+    "Id": 5,
+    "Spørgsmål": "Which of the following is the correct way to declare an integer variable in C#?",
+    "Options": [ "int number = 5;", "int number == 5;", "int number = '5';" ],
+    "Svar": 1
+  },
+  {
+    "Id": 6,
+    "Spørgsmål": "How do you write a single-line comment in C#?",
+    "Options": [ "# comment", "// comment", "/* comment */" ],
+    "Svar": 2
+  },
+  {
+    "Id": 7,
+    "Spørgsmål": "Which of the following is the correct way to create an object of a class in C#?",
+    "Options": [ "ClassName obj = new ClassName();", "ClassName obj;", "ClassName obj = ClassName();" ],
+    "Svar": 1
+  },
+  {
+    "Id": 8,
+    "Spørgsmål": "What is the size of an `int` in C#?",
+    "Options": [ "2 bytes", "4 bytes", "8 bytes" ],
+    "Svar": 2
+  },
+  {
+    "Id": 9,
+    "Spørgsmål": "Which loop in C# is guaranteed to execute at least once?",
+    "Options": [ "for", "while", "do-while" ],
+    "Svar": 3
+  },
+  {
+    "Id": 10,
+    "Spørgsmål": "Which of the following is used to handle exceptions in C#?",
+    "Options": [ "try-catch", "if-else", "switch-case" ],
+    "Svar": 1
+  }
+]

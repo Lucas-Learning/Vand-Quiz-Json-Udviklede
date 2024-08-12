@@ -1,0 +1,62 @@
+[
+  {
+    "Id": 1,
+    "Spørgsmål": "Hvilken SQL-kommando bruges til at hente data fra en database?",
+    "Options": [ "SELECT", "INSERT", "DELETE" ],
+    "Svar": 1
+  },
+  {
+    "Id": 2,
+    "Spørgsmål": "Hvordan sikrer man, at alle værdier i en kolonne er unikke?",
+    "Options": [ "FOREIGN KEY", "PRIMARY KEY", "UNIQUE" ],
+    "Svar": 3
+  },
+  {
+    "Id": 3,
+    "Spørgsmål": "Hvilken SQL-funktion bruges til at finde det højeste tal i en kolonne?",
+    "Options": [ "MAX()", "MIN()", "COUNT()" ],
+    "Svar": 1
+  },
+  {
+    "Id": 4,
+    "Spørgsmål": "Hvilken SQL-kommando bruges til at slette en tabel fra en database?",
+    "Options": [ "DROP", "DELETE", "REMOVE" ],
+    "Svar": 1
+  },
+  {
+    "Id": 5,
+    "Spørgsmål": "Hvilken SQL-kommando bruges til at ændre data i en tabel?",
+    "Options": [ "UPDATE", "CHANGE", "MODIFY" ],
+    "Svar": 1
+  },
+  {
+    "Id": 6,
+    "Spørgsmål": "Hvilken SQL-kommando bruges til at tilføje nye rækker i en tabel?",
+    "Options": [ "ADD", "INSERT", "CREATE" ],
+    "Svar": 2
+  },
+  {
+    "Id": 7,
+    "Spørgsmål": "Hvilken nøgleforhold bruges til at linke to tabeller sammen?",
+    "Options": [ "PRIMARY KEY", "FOREIGN KEY", "CANDIDATE KEY" ],
+    "Svar": 2
+  },
+  {
+    "Id": 8,
+    "Spørgsmål": "Hvilken SQL-kommando bruges til at oprette en ny tabel?",
+    "Options": [ "CREATE TABLE", "NEW TABLE", "MAKE TABLE" ],
+    "Svar": 1
+  },
+  {
+    "Id": 9,
+    "Spørgsmål": "Hvilken SQL-kommando bruges til at hente unikke værdier fra en kolonne?",
+    "Options": [ "UNIQUE", "DISTINCT", "LIMIT" ],
+    "Svar": 2
+  },
+  {
+    "Id": 10,
+    "Spørgsmål": "Hvilken SQL-funktion bruges til at tælle antallet af rækker i en tabel?",
+    "Options": [ "SUM()", "COUNT()", "TOTAL()" ],
+    "Svar": 2
+  }
+]
